@@ -52,8 +52,25 @@ const developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
+
+<br />
+
+## 🤖 AI-Powered Development
+
+<div align="center">
+
+> **"AI 도구는 숙련도 공백을 메울 수 있다"** — 가설을 실제 프로덕트로 검증한 개발자
+
+</div>
+
+- 🎯 **Claude Code Pro 1개월차**, Vite·Supabase 첫 사용 상태에서 **4시간 MVP**로 AI-Quiz 출시
+- 📊 생성형 AI 초안 + 인간 검수 하이브리드 콘텐츠 파이프라인으로 **1,160문제 · 답변 92,329건** 도달
+- 🛡️ AI 생성물의 **롤백 비용을 설계 단계에 내재화** — 정적 JSON + Vercel 재배포 + DB silent fail 구조
+- 🔁 NotebookLM·Claude Code 기반 협업 워크플로우로 **코드 1인 + 콘텐츠 2인** 분업 자동화
+- 💬 AI를 단순 코드 생성기가 아닌 **의사결정 파트너**로 활용 — 제약(시간·토큰·인력) 하에서 *"무엇을 안 할지"* 정의
 
 <br />
 
@@ -81,29 +98,54 @@ const developer = {
 </a>
 
 <details>
-<summary><b>📱 AI-Quiz</b> — SSAFY AI시험 대비 모바일 문제은행 · <a href="https://ai-quiz-xi-livid.vercel.app">Live Demo</a></summary>
+<summary><b>📱 AI-Quiz</b> — 시험 범위 고정이라는 제약을 역이용한 교재 기반 학습 퀴즈 플랫폼 · <a href="https://ai-quiz-xi-livid.vercel.app">Live Demo</a></summary>
 
 <br />
 
-**🎯 Problem & Solution**
-> 기존 PDF 문제집은 모바일에서 확대·스크롤이 불편하고 오답 추적이 어려웠습니다.<br />
-> 출퇴근·자투리 시간에 빠르게 풀이할 수 있도록 **모바일 우선 문제은행**으로 재설계했습니다.
+> 과락 누적 시 강제 퇴소인 **싸피 AI 시험** 앞에서, **4시간 MVP** 제약 안에 LLM 동적 생성 대신 **싸피 교재 기반 정적 JSON**을 택함 → 1 캠퍼스 기획이 전국 캠퍼스로 유기적 확산, **답변 92,329건 · 세션 6,343건** 도달.
 
-**✨ Key Features**
-- 카테고리·과목별 문제 필터링
-- 오답 노트 / 즐겨찾기 자동 저장
-- 풀이 진행률 로컬 스토리지 동기화
-- 모바일 우선 반응형 UI
+**📌 기간 / 역할 / 스택**
+- **기간** · MVP 4시간 + 1·2차 시험 대비 개선 (2주 간격)
+- **역할** · 코드 개발 1인 + 기술적 의사결정 단독 / 퀴즈 콘텐츠 팀 2명 분담
+- **스택** · React 19 · Vite · TypeScript · Zustand · Supabase · Tailwind · Vercel
+
+**🎯 핵심 의사결정 — 제약을 역이용한 기술 선택**
+> 시험 범위가 싸피 내부 교재로 고정 → **LLM 동적 생성은 범위 적합도 보장 불가**. 교재 기반 + 생성형 AI 초안 + 인간 검수 하이브리드로 **시험 범위 일치도 체감 95%**, 정적 JSON + Vercel 재배포로 **롤백 비용 최소화**.
+
+**🛡️ 가용성 설계 — "DB 죽어도 퀴즈는 돈다"**
+- 모든 Supabase 호출 **silent fail**, 분석·로깅 전용으로 축소
+- 1·2차 시험 운영 중 **무중단 가용성 확증**
+- *"JSON=필수, DB=선택"* 이라는 구조 자체가 가용성을 결정
+
+**📊 사용자 가설 — 집합재(Public Good)로서의 인프라**
+- 재학생 1,000명이 각자 NotebookLM으로 중복 제작 → **"한 번 만들면 1,000명이 쓴다"**
+- 단체방 공지 1회 → 부산·광주 등 **지역 캠퍼스로 유기적 확산**, 강사진 사이 이슈화
+- AI 비전공 배경 학생들이 **타깃 외 수혜자**로 발견됨
+
+**📈 검증된 정량 지표**
+
+| 가설 | 실측 | 판정 |
+| --- | --- | :---: |
+| 퀴즈 로드 < 1초 | 즉시 | ✅ |
+| 사용자별 추가 비용 0원 | 0원 | ✅ |
+| DB 장애 시 가용성 | 무중단 | ✅ |
+| 시험 범위 적합도 | 체감 95% | ✅ |
+| 주관식 정답률 *(가설 미수립)* | 40.7% (객관식 82.5%) | ❌ |
+
+**💡 회고 — 숨겨진 반증과 구조적 학습**
+> **측정 없는 영역에 최적화는 없다** — 사전 가설을 세우지 않은 주관식 채점이 40.7%로 반증. *"무엇을 측정할지"* 정의 자체가 설계의 일부.<br /><br />
+> **협업 인프라 부재 = 사람을 잃는 비용** — 4시간 MVP에 Linear 도입을 *"오버헤드"* 로 판단했으나 업무 분배 불균형 → 팀원 소외감. 후속 `how_many`에서 같은 패턴으로 팀원 이탈을 겪고서야 **Linear 도입을 기본값**으로 전환.<br /><br />
+> **포트폴리오 재정의** — 싸피 강사의 *"단순 기능 구현은 포트폴리오에 쓸 수 없다"* 피드백 이후, *(1) 제약 하의 기술 선택, (2) 측정 없는 최적화의 실패, (3) 협업 인프라 부재의 대가* 세 축으로 프로젝트의 가치를 재정의.
 
 **🛠️ Tech Stack**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**💡 Lessons Learned**
-> 초기에는 카테고리 트리 UI를 고민했지만, 실사용자(SSAFY 동기) 피드백에서 **연속 풀이 흐름이 끊기는 게 더 큰 불편**임을 확인하고 단일 스트림 + 필터 방식으로 단순화했습니다.
 
 </details>
 
