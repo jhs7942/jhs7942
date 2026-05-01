@@ -58,22 +58,6 @@ const developer = {
 
 <br />
 
-## 🤖 AI-Powered Development
-
-<div align="center">
-
-> **"AI 도구는 숙련도 공백을 메울 수 있다"** — 가설을 실제 프로덕트로 검증한 개발자
-
-</div>
-
-- 🎯 **Claude Code Pro 1개월차**, Vite·Supabase 첫 사용 상태에서 **4시간 MVP**로 AI-Quiz 출시
-- 📊 생성형 AI 초안 + 인간 검수 하이브리드 콘텐츠 파이프라인으로 **1,160문제 · 답변 92,329건** 도달
-- 🛡️ AI 생성물의 **롤백 비용을 설계 단계에 내재화** — 정적 JSON + Vercel 재배포 + DB silent fail 구조
-- 🔁 NotebookLM·Claude Code 기반 협업 워크플로우로 **코드 1인 + 콘텐츠 2인** 분업 자동화
-- 💬 AI를 단순 코드 생성기가 아닌 **의사결정 파트너**로 활용 — 제약(시간·토큰·인력) 하에서 *"무엇을 안 할지"* 정의
-
-<br />
-
 ## 💼 Career
 
 <table>
