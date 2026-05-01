@@ -5,7 +5,7 @@
 
 <!-- 타이핑 애니메이션 -->
 <a href="https://github.com/jhs7942">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=문제를+해결하고+더+나은+코드를+고민하는+개발자;Frontend+Developer+%7C+React+%7C+TypeScript;OpenLayers%2C+GIS+기반+웹+서비스+경험" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0+%EB%8D%94+%EB%82%98%EC%9D%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Frontend+Developer+%7C+React+%7C+TypeScript;OpenLayers%2C+GIS+%EA%B8%B0%EB%B0%98+%EC%9B%B9+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B2%BD%ED%97%98" alt="Typing SVG" />
 </a>
 
 <br />
