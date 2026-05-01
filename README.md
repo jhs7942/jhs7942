@@ -69,31 +69,43 @@ const developer = {
     <td align="center"><b>2022.03 – 2024.03</b></td>
     <td><b>제타럭스시스템</b><br /><sub>GIS·디지털 트윈 B2B 솔루션</sub></td>
     <td>
-      Web Developer (Front / Back)<br />
-      <sub>· OpenLayers 기반 지도 시각화 구현</sub><br />
-      <sub>· ECharts 차트·통계 페이지 개발</sub><br />
-      <sub>· 전자정부 프레임워크 SI 프로젝트 수행</sub><br />
-      <sub>· Docker / Kubernetes 환경 배포</sub>
+      Front-End Developer/>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>2024.07 – 2025.07</b></td>
-    <td><b>포항의료원</b></td>
-    <td>사회복무요원 (총무 / 내시경 환자 케어)</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2025.07 – 2025.10</b></td>
-    <td><b>필리핀 어학연수</b></td>
-    <td>English Study</td>
   </tr>
 </table>
 
 ### 🗂️ Major Projects
 
-- **경상북도 인구산업 통합 플랫폼** — OpenLayers·ECharts 기반 행정 통계 사이트
-- **공주·부여 스마트타운 챌린지** — 관광지 웹앱, 카카오맵 API 연동
-- **K-City Network 스마트 솔루션 해외실증사업** — 전자정부 프레임워크 SI
-- **간척농지 / 안전진단사업 관리시스템 유지관리** — 운영·유지보수
+<a href="https://github.com/jhs7942/ai-quiz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhs7942&repo=ai-quiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
+</a>
+
+<details>
+<summary><b>📱 AI-Quiz</b> — SSAFY AI시험 대비 모바일 문제은행 · <a href="https://ai-quiz-xi-livid.vercel.app">Live Demo</a></summary>
+
+<br />
+
+**🎯 Problem & Solution**
+> 기존 PDF 문제집은 모바일에서 확대·스크롤이 불편하고 오답 추적이 어려웠습니다.<br />
+> 출퇴근·자투리 시간에 빠르게 풀이할 수 있도록 **모바일 우선 문제은행**으로 재설계했습니다.
+
+**✨ Key Features**
+- 카테고리·과목별 문제 필터링
+- 오답 노트 / 즐겨찾기 자동 저장
+- 풀이 진행률 로컬 스토리지 동기화
+- 모바일 우선 반응형 UI
+
+**🛠️ Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**💡 Lessons Learned**
+> 초기에는 카테고리 트리 UI를 고민했지만, 실사용자(SSAFY 동기) 피드백에서 **연속 풀이 흐름이 끊기는 게 더 큰 불편**임을 확인하고 단일 스트림 + 필터 방식으로 단순화했습니다.
+
+</details>
 
 <br />
 
