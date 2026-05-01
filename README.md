@@ -191,6 +191,9 @@ const developer = {
 <a href="https://github.com/jhs7942">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://saver7942.blogspot.com/">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
 
 </div>
 
