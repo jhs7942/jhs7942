@@ -77,9 +77,9 @@ const developer = {
     <td align="center"><b>2022.03 – 2024.03</b></td>
     <td><b>제타럭스시스템</b> <sub>SI사업부 / 주임</sub><br /><sub>공공·지자체 발주 웹 프로젝트</sub></td>
     <td>
-      <b>Back-End</b> · API / DB 설계 · 쿼리 작성<br />
-      <b>Infra</b> · Linux 환경 WAS 배포 및 운영<br />
-      <b>Front-End</b> · React 기반 UI/UX 구현
+      공공·지자체 발주 웹 프로젝트 수행<br />
+      <b>Front-End</b> · React 기반 UI/UX 및 화면 기능 구현<br />
+      <b>Back-End</b> · API 및 DB 설계·쿼리, Linux 환경 WAS 배포 및 운영
     </td>
   </tr>
 </table>
