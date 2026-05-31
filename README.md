@@ -101,13 +101,6 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/jhs7942">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhs7942&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhs7942&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" height="180" alt="Top Languages" />
-</a>
-
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhs7942&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
 
 </div>
