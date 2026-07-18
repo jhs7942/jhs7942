@@ -1,26 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
   <style>
-    .f1{animation:up .7s ease-out both}
-    .f2{animation:up .7s .18s ease-out both}
-    .f3{animation:up .7s .36s ease-out both}
+    .f1{animation:up .6s ease-out both}
+    .f2{animation:up .6s .15s ease-out both}
+    .f3{animation:up .6s .3s ease-out both}
     @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
   </style>
-  <path d="M 26,0 H 870 Q 900,0 900,30 V 216 Q 900,240 876,240 H 28 Q 0,240 0,212 V 26 Q 0,0 26,0 Z" fill="#83CFC9"/>
+  <path d="M 26,0 H 870 Q 900,0 900,30 V 226 Q 900,250 876,250 H 28 Q 0,250 0,222 V 26 Q 0,0 26,0 Z" fill="#83CFC9"/>
   <g class="f1">
-    <path d="M 55,42 H 78 Q 94,42 94,58 V 83 Q 94,96 81,96 H 55 Q 40,96 40,81 V 57 Q 40,42 55,42 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.5)" stroke-width="1.5"/>
-    <text x="67" y="79" text-anchor="middle" font-size="28" font-weight="700" fill="#C8443C">승</text>
-    <text x="112" y="70" font-size="30" font-weight="700" fill="#243130">정현승 <tspan font-size="19" font-weight="500" fill="#2F3A39">Hyeonseung Jeong</tspan></text>
-    <text x="112" y="94" font-size="14" fill="#2F3A39">문제를 해결하고 더 나은 코드를 고민하는 웹 개발자</text>
+    <path d="M 52,36 H 67 Q 80,36 80,49 V 65 Q 80,76 69,76 H 52 Q 40,76 40,64 V 48 Q 40,36 52,36 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.5)" stroke-width="1.5"/>
+    <text x="60" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#C8443C">승</text>
+    <text x="92" y="62" font-size="17" font-weight="700" fill="#243130">정현승 <tspan font-weight="500" font-size="14" fill="#2F3A39">Hyeonseung Jeong</tspan></text>
   </g>
   <g class="f2">
-    <path d="M 786,44 H 849 Q 860,44 860,55 V 67 Q 860,76 851,76 H 786 Q 776,76 776,66 V 54 Q 776,44 786,44 Z" fill="#C8443C"/>
-    <text x="818" y="65" text-anchor="middle" font-size="13" font-weight="700" fill="#FBFBF7" letter-spacing="1">PROFILE</text>
+    <path d="M 736,36 H 849 Q 860,36 860,47 V 59 Q 860,68 851,68 H 736 Q 726,68 726,58 V 46 Q 726,36 736,36 Z" fill="#C8443C"/>
+    <text x="793" y="57" text-anchor="middle" font-size="13" font-weight="700" fill="#FBFBF7" letter-spacing="1">OPEN TO WORK</text>
+  </g>
+  <g class="f2">
+    <text x="42" y="128" font-size="34" font-weight="700" fill="#243130">AI Native <tspan fill="#C8443C">Full-stack</tspan> Developer</text>
+    <text x="42" y="158" font-size="15" fill="#2F3A39">React로 사용자 경험을 만들고, AI 에이전트 파이프라인으로 개발 사이클을 자동화합니다</text>
   </g>
   <g class="f3">
-    <path d="M 57,136 H 641 Q 660,136 660,155 V 182 Q 660,198 644,198 H 58 Q 40,198 40,180 V 153 Q 40,136 57,136 Z" fill="#FBFBF7"/>
-    <text x="66" y="162" font-size="14" fill="#243130" font-weight="700">"RPG 캐릭터가 스킬을 얻으며 레벨을 올리듯,</text>
-    <text x="66" y="184" font-size="14" fill="#2F3A39">기술 스택을 하나씩 쌓아 올리는 것을 즐깁니다."</text>
-    <path d="M 699,150 H 772 Q 784,150 784,162 V 174 Q 784,184 774,184 H 699 Q 688,184 688,173 V 161 Q 688,150 699,150 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-    <text x="736" y="172" text-anchor="middle" font-size="13" font-weight="500" fill="#2F3A39">Web Dev</text>
+    <path d="M 54,184 H 105 Q 118,184 118,197 V 205 Q 118,216 107,216 H 54 Q 42,216 42,204 V 196 Q 42,184 54,184 Z" fill="#C8443C"/>
+    <text x="80" y="205" text-anchor="middle" font-size="14" font-weight="700" fill="#FBFBF7">React</text>
+    <path d="M 140,184 H 215 Q 228,184 228,197 V 205 Q 228,216 217,216 H 140 Q 128,216 128,204 V 196 Q 128,184 140,184 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.25)"/>
+    <text x="178" y="205" text-anchor="middle" font-size="14" font-weight="500" fill="#2F3A39">TypeScript</text>
+    <path d="M 250,184 H 301 Q 314,184 314,197 V 205 Q 314,216 303,216 H 250 Q 238,216 238,204 V 196 Q 238,184 250,184 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.25)"/>
+    <text x="276" y="205" text-anchor="middle" font-size="14" font-weight="500" fill="#2F3A39">Next.js</text>
+    <path d="M 336,184 H 421 Q 434,184 434,197 V 205 Q 434,216 423,216 H 336 Q 324,216 324,204 V 196 Q 324,184 336,184 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.25)"/>
+    <text x="379" y="205" text-anchor="middle" font-size="14" font-weight="500" fill="#2F3A39">Spring Boot</text>
+    <path d="M 456,184 H 547 Q 560,184 560,197 V 205 Q 560,216 549,216 H 456 Q 444,216 444,204 V 196 Q 444,184 456,184 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.25)"/>
+    <text x="502" y="205" text-anchor="middle" font-size="14" font-weight="500" fill="#2F3A39">Claude Code</text>
   </g>
 </svg>

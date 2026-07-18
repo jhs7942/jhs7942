@@ -1,36 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 316" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
-  <path d="M 18,0 H 860 Q 880,0 880,20 V 299 Q 880,316 863,316 H 19 Q 0,316 0,297 V 18 Q 0,0 18,0 Z" fill="#FBFBF7"/>
-  <text x="36" y="74" font-size="14" font-weight="700" fill="#243130">Languages</text>
-  <path d="M 190,54 H 223 Q 238,54 238,69 V 71 Q 238,84 225,84 H 190 Q 176,84 176,70 V 68 Q 176,54 190,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="207" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Java</text>
-  <path d="M 262,54 H 343 Q 358,54 358,69 V 71 Q 358,84 345,84 H 262 Q 248,84 248,70 V 68 Q 248,54 262,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="303" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">TypeScript</text>
-  <path d="M 382,54 H 463 Q 478,54 478,69 V 71 Q 478,84 465,84 H 382 Q 368,84 368,70 V 68 Q 368,54 382,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="423" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">JavaScript</text>
-  <path d="M 502,54 H 551 Q 566,54 566,69 V 71 Q 566,84 553,84 H 502 Q 488,84 488,70 V 68 Q 488,54 502,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="527" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Python</text>
-  <text x="36" y="126" font-size="14" font-weight="700" fill="#243130">Frontend</text>
-  <path d="M 190,106 H 231 Q 246,106 246,121 V 123 Q 246,136 233,136 H 190 Q 176,136 176,122 V 120 Q 176,106 190,106 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="211" y="126" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">React</text>
-  <path d="M 270,106 H 327 Q 342,106 342,121 V 123 Q 342,136 329,136 H 270 Q 256,136 256,122 V 120 Q 256,106 270,106 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="299" y="126" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Next.js</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 264" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <path d="M 18,0 H 860 Q 880,0 880,20 V 247 Q 880,264 863,264 H 19 Q 0,264 0,245 V 18 Q 0,0 18,0 Z" fill="#FBFBF7" stroke="rgba(47,58,57,0.25)"/>
+  <text x="36" y="74" font-size="14" font-weight="700" fill="#243130">Frontend</text>
+  <path d="M 124,56 H 159 Q 168,56 168,65 V 73 Q 168,80 161,80 H 124 Q 116,80 116,72 V 64 Q 116,56 124,56 Z" fill="#C8443C"/>
+  <text x="142" y="73" text-anchor="middle" font-size="11" font-weight="700" fill="#FBFBF7" letter-spacing="1">MAIN</text>
+  <path d="M 210,54 H 251 Q 266,54 266,69 V 71 Q 266,84 253,84 H 210 Q 196,84 196,70 V 68 Q 196,54 210,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="231" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">React</text>
+  <path d="M 290,54 H 371 Q 386,54 386,69 V 71 Q 386,84 373,84 H 290 Q 276,84 276,70 V 68 Q 276,54 290,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="331" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">TypeScript</text>
+  <path d="M 410,54 H 467 Q 482,54 482,69 V 71 Q 482,84 469,84 H 410 Q 396,84 396,70 V 68 Q 396,54 410,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="439" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Next.js</text>
+  <path d="M 506,54 H 587 Q 602,54 602,69 V 71 Q 602,84 589,84 H 506 Q 492,84 492,70 V 68 Q 492,54 506,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="547" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">JavaScript</text>
+  <path d="M 626,54 H 699 Q 714,54 714,69 V 71 Q 714,84 701,84 H 626 Q 612,84 612,70 V 68 Q 612,54 626,54 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="663" y="74" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Socket.IO</text>
+  <text x="36" y="126" font-size="14" font-weight="700" fill="#243130">AI Native</text>
+  <path d="M 210,106 H 299 Q 314,106 314,121 V 123 Q 314,136 301,136 H 210 Q 196,136 196,122 V 120 Q 196,106 210,106 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="255" y="126" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Claude Code</text>
+  <path d="M 338,106 H 363 Q 378,106 378,121 V 123 Q 378,136 365,136 H 338 Q 324,136 324,122 V 120 Q 324,106 338,106 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="351" y="126" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">MCP</text>
+  <path d="M 402,106 H 563 Q 578,106 578,121 V 123 Q 578,136 565,136 H 402 Q 388,136 388,122 V 120 Q 388,106 402,106 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="483" y="126" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Multi-Agent Pipeline</text>
   <text x="36" y="178" font-size="14" font-weight="700" fill="#243130">Backend</text>
-  <path d="M 190,158 H 279 Q 294,158 294,173 V 175 Q 294,188 281,188 H 190 Q 176,188 176,174 V 172 Q 176,158 190,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="235" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Spring Boot</text>
-  <path d="M 318,158 H 343 Q 358,158 358,173 V 175 Q 358,188 345,188 H 318 Q 304,188 304,174 V 172 Q 304,158 318,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="331" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">JPA</text>
-  <text x="36" y="230" font-size="14" font-weight="700" fill="#243130">Database</text>
-  <path d="M 190,210 H 271 Q 286,210 286,225 V 227 Q 286,240 273,240 H 190 Q 176,240 176,226 V 224 Q 176,210 190,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="231" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">PostgreSQL</text>
-  <text x="36" y="282" font-size="14" font-weight="700" fill="#243130">Infra · Tools</text>
-  <path d="M 190,262 H 231 Q 246,262 246,277 V 279 Q 246,292 233,292 H 190 Q 176,292 176,278 V 276 Q 176,262 190,262 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="211" y="282" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Linux</text>
-  <path d="M 270,262 H 311 Q 326,262 326,277 V 279 Q 326,292 313,292 H 270 Q 256,292 256,278 V 276 Q 256,262 270,262 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="291" y="282" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Nginx</text>
-  <path d="M 350,262 H 399 Q 414,262 414,277 V 279 Q 414,292 401,292 H 350 Q 336,292 336,278 V 276 Q 336,262 350,262 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="375" y="282" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Tomcat</text>
-  <path d="M 438,262 H 463 Q 478,262 478,277 V 279 Q 478,292 465,292 H 438 Q 424,292 424,278 V 276 Q 424,262 438,262 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="451" y="282" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Git</text>
-  <path d="M 502,262 H 591 Q 606,262 606,277 V 279 Q 606,292 593,292 H 502 Q 488,292 488,278 V 276 Q 488,262 502,262 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
-  <text x="547" y="282" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Claude Code</text>
+  <path d="M 210,158 H 243 Q 258,158 258,173 V 175 Q 258,188 245,188 H 210 Q 196,188 196,174 V 172 Q 196,158 210,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="227" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Java</text>
+  <path d="M 282,158 H 371 Q 386,158 386,173 V 175 Q 386,188 373,188 H 282 Q 268,188 268,174 V 172 Q 268,158 282,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="327" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Spring Boot</text>
+  <path d="M 410,158 H 435 Q 450,158 450,173 V 175 Q 450,188 437,188 H 410 Q 396,188 396,174 V 172 Q 396,158 410,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="423" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">JPA</text>
+  <path d="M 474,158 H 531 Q 546,158 546,173 V 175 Q 546,188 533,188 H 474 Q 460,188 460,174 V 172 Q 460,158 474,158 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="503" y="178" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Node.js</text>
+  <text x="36" y="230" font-size="14" font-weight="700" fill="#243130">DB · Infra</text>
+  <path d="M 210,210 H 291 Q 306,210 306,225 V 227 Q 306,240 293,240 H 210 Q 196,240 196,226 V 224 Q 196,210 210,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="251" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">PostgreSQL</text>
+  <path d="M 330,210 H 371 Q 386,210 386,225 V 227 Q 386,240 373,240 H 330 Q 316,240 316,226 V 224 Q 316,210 330,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="351" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Linux</text>
+  <path d="M 410,210 H 451 Q 466,210 466,225 V 227 Q 466,240 453,240 H 410 Q 396,240 396,226 V 224 Q 396,210 410,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="431" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Nginx</text>
+  <path d="M 490,210 H 539 Q 554,210 554,225 V 227 Q 554,240 541,240 H 490 Q 476,240 476,226 V 224 Q 476,210 490,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="515" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Tomcat</text>
+  <path d="M 578,210 H 603 Q 618,210 618,225 V 227 Q 618,240 605,240 H 578 Q 564,240 564,226 V 224 Q 564,210 578,210 Z" fill="#C8E9E4" stroke="rgba(47,58,57,0.25)"/>
+  <text x="591" y="230" text-anchor="middle" font-size="13.5" font-weight="500" fill="#2F3A39">Git</text>
 </svg>

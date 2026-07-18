@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 168" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <path d="M 17,0 H 261 Q 280,0 280,19 V 152 Q 280,168 264,168 H 18 Q 0,168 0,150 V 17 Q 0,0 17,0 Z" fill="#243130" stroke="rgba(200,233,228,0.35)"/>
+  <path d="M 318,0 H 563 Q 580,0 580,17 V 149 Q 580,168 561,168 H 316 Q 300,168 300,152 V 18 Q 300,0 318,0 Z" fill="#243130" stroke="rgba(200,233,228,0.35)"/>
+  <path d="M 616,0 H 862 Q 880,0 880,18 V 151 Q 880,168 863,168 H 619 Q 600,168 600,149 V 16 Q 600,0 616,0 Z" fill="#243130" stroke="rgba(200,233,228,0.35)"/>
+
+  <path d="M 32,26 H 107 Q 116,26 116,35 V 45 Q 116,52 109,52 H 32 Q 24,52 24,44 V 34 Q 24,26 32,26 Z" fill="#C8443C"/>
+  <text x="70" y="44" text-anchor="middle" font-size="12" font-weight="700" fill="#FBFBF7" letter-spacing="1">FRONTEND</text>
+  <text x="24" y="86" font-size="16" font-weight="700" fill="#FBFBF7">React가 주력입니다</text>
+  <text x="24" y="114" font-size="13" fill="#C8E9E4">SI 현장 2년 화면 개발 경험,</text>
+  <text x="24" y="136" font-size="13" fill="#C8E9E4">실시간 서비스 UI까지 구현</text>
+
+  <path d="M 332,26 H 407 Q 416,26 416,35 V 45 Q 416,52 409,52 H 332 Q 324,52 324,44 V 34 Q 324,26 332,26 Z" fill="#C8443C"/>
+  <text x="370" y="44" text-anchor="middle" font-size="12" font-weight="700" fill="#FBFBF7" letter-spacing="1">AI NATIVE</text>
+  <text x="324" y="86" font-size="16" font-weight="700" fill="#FBFBF7">AI와 함께 일합니다</text>
+  <text x="324" y="114" font-size="13" fill="#C8E9E4">Claude Code 멀티에이전트로</text>
+  <text x="324" y="136" font-size="13" fill="#C8E9E4">기획→구현→리뷰 사이클 자동화</text>
+
+  <path d="M 632,26 H 715 Q 724,26 724,35 V 45 Q 724,52 717,52 H 632 Q 624,52 624,44 V 34 Q 624,26 632,26 Z" fill="#C8443C"/>
+  <text x="674" y="44" text-anchor="middle" font-size="12" font-weight="700" fill="#FBFBF7" letter-spacing="1">FULL-STACK</text>
+  <text x="624" y="86" font-size="16" font-weight="700" fill="#FBFBF7">끝까지 완결합니다</text>
+  <text x="624" y="114" font-size="13" fill="#C8E9E4">Spring·Node API와 DB 설계,</text>
+  <text x="624" y="136" font-size="13" fill="#C8E9E4">Linux 배포·운영까지 직접</text>
+</svg>

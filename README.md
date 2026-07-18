@@ -1,110 +1,101 @@
 <div align="center">
 
-<!-- 헤더 배너 (블로그 '승이의 개발 일기' 디자인) -->
-<img src="assets/header.svg" width="100%" alt="정현승 · Hyeonseung Jeong — Web Developer" />
-
-<br /><br />
-
-<!-- 타이핑 애니메이션 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=20&duration=3500&pause=800&color=C8E9E4&center=true&vCenter=true&width=600&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0+%EB%8D%94+%EB%82%98%EC%9D%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Web+Developer+%7C+Java+%C2%B7+Spring+%7C+React;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%84%A4%EA%B3%84%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" />
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=20&duration=3500&pause=800&color=2F3A39&center=true&vCenter=true&width=600&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0+%EB%8D%94+%EB%82%98%EC%9D%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Web+Developer+%7C+Java+%C2%B7+Spring+%7C+React;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8F%84%EB%A9%94%EC%9D%B8+%EC%84%A4%EA%B3%84%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
-</picture>
-
-<br />
-
-<!-- 방문자 카운터 + 팔로워 -->
-<img src="https://komarev.com/ghpvc/?username=jhs7942&label=Profile%20views&color=83cfc9&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/jhs7942?label=Followers&style=flat-square&color=2F3A39" alt="followers" />
+<!-- 히어로: AI Native 풀스택(프론트 중심) 포지셔닝 -->
+<img src="assets/header.svg" width="100%" alt="정현승 — AI Native Full-stack Developer. React로 사용자 경험을 만들고, AI 에이전트 파이프라인으로 개발 사이클을 자동화합니다." />
 
 </div>
 
 <br />
 
-<!-- 01 About me -->
+<!-- 01 Highlights -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-about-dark.svg" />
-  <img src="assets/section-about-light.svg" width="420" alt="01 About me" />
-</picture>
-
-```typescript
-const developer = {
-  name: "정현승 (Hyeonseung Jeong)",
-  role: "Web Developer",
-  location: "Republic of Korea",
-  email: "saver7942@gmail.com",
-  motto: "RPG 캐릭터가 스킬을 얻으며 레벨을 올리듯, 기술 스택을 쌓는 것을 즐깁니다.",
-  currentlyLearning: ["Spring Boot", "Python"],
-};
-```
-
-<br />
-
-<!-- 02 Tech stack -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg" />
-  <img src="assets/section-stack-light.svg" width="420" alt="02 Tech stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-highlights-dark.svg" />
+  <img src="assets/section-highlights-light.svg" width="420" alt="01 Highlights" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Java, TypeScript, JavaScript, Python, React, Next.js, Spring Boot, JPA, PostgreSQL, Linux, Nginx, Tomcat, Git, Claude Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg" />
+  <img src="assets/highlights-light.svg" width="100%" alt="Frontend: React가 주력입니다 — SI 현장 2년 화면 개발 경험, 실시간 서비스 UI까지 구현. AI Native: Claude Code 멀티에이전트로 기획→구현→리뷰 사이클 자동화. Full-stack: Spring·Node API와 DB 설계, Linux 배포·운영까지 직접." />
 </picture>
 
 <br /><br />
 
-<!-- 03 Career -->
+<!-- 02 Featured project -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-project-dark.svg" />
+  <img src="assets/section-project-light.svg" width="420" alt="02 Featured project" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg" />
+  <img src="assets/project-light.svg" width="100%" alt="텔레파시 — 실시간 소켓 기반 팀 웹 서비스. TypeScript 전면 마이그레이션과 공유 타입 계약 설계, 소켓 인증·결제 검증 보안 개선, 아키텍처 문서화와 기술 블로그 시리즈 5편 연재." />
+</picture>
+
+<div align="center">
+
+[**📁 Repository**](https://github.com/MoonEunSeo/telepathy-app) · [**📝 아키텍처 시리즈 5편 읽기**](https://saver7942.blogspot.com/search/label/%ED%85%94%EB%A0%88%ED%8C%8C%EC%8B%9C) · [**📚 더 많은 프로젝트**](https://github.com/jhs7942?tab=repositories)
+
+</div>
+
+<br />
+
+<!-- 03 Tech stack -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg" />
+  <img src="assets/section-stack-light.svg" width="420" alt="03 Tech stack" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="100%" alt="Frontend(main): React, TypeScript, Next.js, JavaScript, Socket.IO / AI Native: Claude Code, MCP, Multi-Agent Pipeline / Backend: Java, Spring Boot, JPA, Node.js / DB·Infra: PostgreSQL, Linux, Nginx, Tomcat, Git" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhs7942&layout=compact&hide_border=true&bg_color=243130&title_color=C8E9E4&text_color=FBFBF7&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhs7942&layout=compact&hide_border=true&bg_color=FBFBF7&title_color=C8443C&text_color=2F3A39&langs_count=6" alt="Top Languages" />
+</picture>
+
+</div>
+
+<br />
+
+<!-- 04 Experience -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-career-dark.svg" />
-  <img src="assets/section-career-light.svg" width="420" alt="03 Career" />
+  <img src="assets/section-career-light.svg" width="420" alt="04 Experience" />
 </picture>
 
 <table>
   <tr>
-    <th width="200">Period</th>
-    <th>Organization</th>
+    <th width="190">Period</th>
+    <th width="220">Organization</th>
     <th>Role</th>
   </tr>
   <tr>
     <td align="center"><b>2022.03 – 2024.03</b></td>
-    <td><b>제타럭스시스템</b> <sub>SI사업부 / 주임</sub><br /><sub>공공·지자체 발주 웹 프로젝트</sub></td>
+    <td><b>제타럭스시스템</b><br /><sub>SI사업부 / 주임 · 공공·지자체 발주 웹 프로젝트</sub></td>
     <td>
-      공공·지자체 발주 웹 프로젝트 수행<br />
-      <b>Front-End</b> · React 기반 UI/UX 및 화면 기능 구현<br />
-      <b>Back-End</b> · API 및 DB 설계·쿼리, Linux 환경 WAS 배포 및 운영
+      <b>Front-End (주력)</b> · React 기반 UI/UX 설계 및 화면 기능 구현<br />
+      <b>Back-End</b> · REST API·DB 설계와 쿼리 작성<br />
+      <b>Infra</b> · Linux 환경 WAS 배포·운영
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- 04 Certifications -->
+<!-- 05 Certifications -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-cert-dark.svg" />
-  <img src="assets/section-cert-light.svg" width="420" alt="04 Certifications" />
+  <img src="assets/section-cert-light.svg" width="420" alt="05 Certifications" />
 </picture>
 
 | Certification | Issued by |
 | :--- | :--- |
 | **정보처리기사** | 한국산업인력공단 |
 | **삼성 소프트웨어 역량테스트 A 등급** | Samsung Electronics |
-
-<br />
-
-<!-- 05 GitHub stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stats-dark.svg" />
-  <img src="assets/section-stats-light.svg" width="420" alt="05 GitHub stats" />
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jhs7942&hide_border=true&background=243130&ring=C8443C&fire=C8443C&currStreakNum=FBFBF7&currStreakLabel=C8E9E4&sideNums=FBFBF7&sideLabels=C8E9E4&dates=9AA79E" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhs7942&hide_border=true&background=FBFBF7&ring=C8443C&fire=C8443C&currStreakNum=243130&currStreakLabel=C8443C&sideNums=2F3A39&sideLabels=2F3A39&dates=9AA79E" alt="GitHub Streak" />
-</picture>
-
-</div>
 
 <br />
 
@@ -119,11 +110,11 @@ const developer = {
 <a href="mailto:saver7942@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-C8443C?style=flat-square&logo=gmail&logoColor=FBFBF7" alt="Gmail" height="28" />
 </a>
+<a href="https://saver7942.blogspot.com/">
+  <img src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8-83CFC9?style=flat-square&logo=blogger&logoColor=2F3A39" alt="기술 블로그" height="28" />
+</a>
 <a href="https://github.com/jhs7942">
   <img src="https://img.shields.io/badge/GitHub-2F3A39?style=flat-square&logo=github&logoColor=FBFBF7" alt="GitHub" height="28" />
-</a>
-<a href="https://saver7942.blogspot.com/">
-  <img src="https://img.shields.io/badge/%EC%8A%B9%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EA%B8%B0-83CFC9?style=flat-square&logo=blogger&logoColor=2F3A39" alt="Blog" height="28" />
 </a>
 
 </div>
@@ -131,5 +122,5 @@ const developer = {
 <br />
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="오늘도 한 층 쌓는 중 — 승이의 개발 일기" />
+<img src="assets/footer.svg" width="100%" alt="기록하며 성장하는 개발자 — 승이의 개발 일기 saver7942.blogspot.com" />
 </div>
