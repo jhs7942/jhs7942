@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <path d="M 22,0 H 874 Q 900,0 900,26 V 64 Q 900,84 880,84 H 24 Q 0,84 0,60 V 22 Q 0,0 22,0 Z" fill="#83CFC9"/>
+  <text x="450" y="40" text-anchor="middle" font-size="14" font-weight="500" fill="#243130">오늘도 한 층 쌓는 중 — 승이의 개발 일기</text>
+  <text x="450" y="62" text-anchor="middle" font-size="12.5" fill="#2F3A39">saver7942.blogspot.com</text>
+</svg>

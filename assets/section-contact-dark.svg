@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 58" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <path d="M 15,2 H 403 Q 420,2 420,19 V 42 Q 420,56 406,56 H 16 Q 0,56 0,40 V 17 Q 0,2 15,2 Z" fill="#243130"/>
+  <path d="M 25,15 H 35 Q 46,15 46,26 V 37 Q 46,45 38,45 H 26 Q 16,45 16,35 V 24 Q 16,15 25,15 Z" fill="#C8443C"/>
+  <text x="31" y="35" text-anchor="middle" font-size="14" font-weight="700" fill="#FBFBF7">06</text>
+  <text x="62" y="36" font-size="18" font-weight="700" fill="#FBFBF7">Contact</text>
+</svg>
