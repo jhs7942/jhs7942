@@ -28,16 +28,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg" />
-  <img src="assets/project-light.svg" width="100%" alt="텔레파시 — 실시간 소켓 기반 팀 웹 서비스. TypeScript 전면 마이그레이션과 공유 타입 계약 설계, 소켓 인증·결제 검증 보안 개선, 아키텍처 문서화와 기술 블로그 시리즈 5편 연재." />
+  <img src="assets/project-light.svg" width="100%" alt="텔레파시 — 실시간 소켓 기반 팀 웹 서비스. 화면 전환 시 중복 API 호출을 TanStack Query 캐싱으로 요청 15건에서 6건으로 60% 감축, 폼 타이핑당 리렌더를 React Hook Form 전환으로 글자당 1회에서 0회로 제거, 1초 주기 폴링을 Socket.IO push 전환으로 분당 59건에서 0건으로 제거." />
 </picture>
-
-<div align="center">
-
-[**📁 Repository**](https://github.com/MoonEunSeo/telepathy-app) · [**📝 아키텍처 시리즈 5편 읽기**](https://saver7942.blogspot.com/search/label/%ED%85%94%EB%A0%88%ED%8C%8C%EC%8B%9C) · [**📚 더 많은 프로젝트**](https://github.com/jhs7942?tab=repositories)
-
-</div>
-
-<br />
 
 <!-- 03 Experience -->
 <picture>
