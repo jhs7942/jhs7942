@@ -39,32 +39,10 @@
 
 <br />
 
-<!-- 03 Tech stack -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg" />
-  <img src="assets/section-stack-light.svg" width="420" alt="03 Tech stack" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Frontend(main): React, TypeScript, Next.js, JavaScript, Socket.IO / AI Native: Claude Code, MCP, Multi-Agent Pipeline / Backend: Java, Spring Boot, JPA, Node.js / DB·Infra: PostgreSQL, Linux, Nginx, Tomcat, Git" />
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhs7942&layout=compact&hide_border=true&bg_color=243130&title_color=C8E9E4&text_color=FBFBF7&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhs7942&layout=compact&hide_border=true&bg_color=FBFBF7&title_color=C8443C&text_color=2F3A39&langs_count=6" alt="Top Languages" />
-</picture>
-
-</div>
-
-<br />
-
-<!-- 04 Experience -->
+<!-- 03 Experience -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-career-dark.svg" />
-  <img src="assets/section-career-light.svg" width="420" alt="04 Experience" />
+  <img src="assets/section-career-light.svg" width="420" alt="03 Experience" />
 </picture>
 
 <table>
@@ -86,10 +64,10 @@
 
 <br />
 
-<!-- 05 Certifications -->
+<!-- 04 Certifications -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-cert-dark.svg" />
-  <img src="assets/section-cert-light.svg" width="420" alt="05 Certifications" />
+  <img src="assets/section-cert-light.svg" width="420" alt="04 Certifications" />
 </picture>
 
 | Certification | Issued by |
@@ -99,10 +77,10 @@
 
 <br />
 
-<!-- 06 Contact -->
+<!-- 05 Contact -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-contact-dark.svg" />
-  <img src="assets/section-contact-light.svg" width="420" alt="06 Contact" />
+  <img src="assets/section-contact-light.svg" width="420" alt="05 Contact" />
 </picture>
 
 <div align="center">
