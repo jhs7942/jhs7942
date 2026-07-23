@@ -3,9 +3,9 @@
   <text x="36" y="48" font-size="21" font-weight="700" fill="#FBFBF7">텔레파시 <tspan font-size="14" font-weight="500" fill="#C8E9E4">— 실시간 소켓 기반 팀 웹 서비스</tspan></text>
   <path d="M 736,24 H 833 Q 844,24 844,35 V 45 Q 844,54 835,54 H 736 Q 726,54 726,44 V 34 Q 726,24 736,24 Z" fill="#C8443C"/>
   <text x="785" y="44" text-anchor="middle" font-size="12" font-weight="700" fill="#FBFBF7" letter-spacing="1">TEAM PROJECT</text>
-  <text x="36" y="86" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  JavaScript → TypeScript 전면 마이그레이션 — 프론트·서버가 공유하는 타입 계약 레이어 설계</text>
-  <text x="36" y="112" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  소켓 인증 도입, 결제 검증 서버 일원화 등 보안 취약점 진단·개선 주도</text>
-  <text x="36" y="138" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  아키텍처 역산 문서화 + 기술 블로그 '아키텍처 시리즈' 5편 연재</text>
+  <text x="36" y="86" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  화면 전환 시 중복 API 호출 — TanStack Query 캐싱으로 요청 15건 → 6건 (−60%)</text>
+  <text x="36" y="112" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  폼 타이핑당 리렌더 — React Hook Form 전환으로 글자당 1.0회 → 0회 (−100%)</text>
+  <text x="36" y="138" font-size="13.5" fill="#C8E9E4"><tspan fill="#C8443C" font-weight="700">✓</tspan>  1초 주기 폴링 — Socket.IO push 전환으로 요청 59건/분 → ≈0 (−100%)</text>
   <path d="M 50,166 H 91 Q 106,166 106,181 V 183 Q 106,196 93,196 H 50 Q 36,196 36,182 V 180 Q 36,166 50,166 Z" fill="#2F4A46" stroke="rgba(200,233,228,0.35)"/>
   <text x="71" y="186" text-anchor="middle" font-size="13.5" font-weight="500" fill="#C8E9E4">React</text>
   <path d="M 130,166 H 211 Q 226,166 226,181 V 183 Q 226,196 213,196 H 130 Q 116,196 116,182 V 180 Q 116,166 130,166 Z" fill="#2F4A46" stroke="rgba(200,233,228,0.35)"/>
