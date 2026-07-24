@@ -5,7 +5,7 @@
 
 </div>
 
-<br />
+<img src="assets/spacer.svg" width="1" height="10" alt="" />
 
 <!-- 01 Highlights -->
 <picture>
@@ -18,7 +18,7 @@
   <img src="assets/highlights-light.svg" width="100%" alt="Frontend: React가 주력입니다 — SI 현장 2년 화면 개발 경험, 실시간 서비스 UI까지 구현. AI Native: Claude Code 멀티에이전트로 기획→구현→리뷰 사이클 자동화. Full-stack: Spring·Node API와 DB 설계, Linux 배포·운영까지 직접." />
 </picture>
 
-<br /><br />
+<img src="assets/spacer.svg" width="1" height="10" alt="" />
 
 <!-- 02 Featured project -->
 <picture>
@@ -30,6 +30,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg" />
   <img src="assets/project-light.svg" width="100%" alt="텔레파시 — 실시간 소켓 기반 팀 웹 서비스. 화면 전환 시 중복 API 호출을 TanStack Query 캐싱으로 요청 15건에서 6건으로 60% 감축, 폼 타이핑당 리렌더를 React Hook Form 전환으로 글자당 1회에서 0회로 제거, 1초 주기 폴링을 Socket.IO push 전환으로 분당 59건에서 0건으로 제거." />
 </picture>
+
+<img src="assets/spacer.svg" width="1" height="10" alt="" />
 
 <!-- 03 Experience -->
 <picture>
@@ -83,14 +85,5 @@
 <a href="https://saver7942.blogspot.com/">
   <img src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8-83CFC9?style=flat-square&logo=blogger&logoColor=2F3A39" alt="기술 블로그" height="28" />
 </a>
-<a href="https://github.com/jhs7942">
-  <img src="https://img.shields.io/badge/GitHub-2F3A39?style=flat-square&logo=github&logoColor=FBFBF7" alt="GitHub" height="28" />
-</a>
 
-</div>
-
-<br />
-
-<div align="center">
-<img src="assets/footer.svg" width="100%" alt="기록하며 성장하는 개발자 — 승이의 개발 일기 saver7942.blogspot.com" />
 </div>
